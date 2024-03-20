@@ -1,4 +1,4 @@
-Below are the following tasks which i had in this project:-
+Below are the following tasks which I had performed in this project:-
 SQL Tasks :-
 A) Marketing Analysis:
 
